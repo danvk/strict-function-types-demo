@@ -1,0 +1,11 @@
+{
+  "name": "cocontravar",
+  "version": "1.0.0",
+  "description": "Demo of strictFunctionTypes",
+  "main": "index.js",
+  "author": "Dan Vanderkam",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "rc"
+  }
+}
